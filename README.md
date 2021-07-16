@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+To provide the needed files
+
 ##How to Contribute
+
+Contribute by trying to execute it properly
